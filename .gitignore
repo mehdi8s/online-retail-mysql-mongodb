@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Secrets
+config/database.env
+
+# IDE
+.cursor/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Word lock files
+~$*
+
+# Old benchmark runs
+results/benchmark_*_192246.csv
